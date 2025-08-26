@@ -1,0 +1,38 @@
+{
+  "nhom_nganh": "Tên nhóm ngành",
+  "danh_sach_nganh": [
+    {
+      "ten_nganh": "Tên ngành 1",
+      "ma_nganh": "Mã ngành (nếu có)",
+      "data": [
+        {
+          "ten_truong": "Tên trường đại học",
+          "ma_truong": "Mã trường",
+          "phuong_thuc_xet_tuyen": [
+            "Phương thức 1",
+            "Phương thức 2",
+            "..."
+          ],
+          "chi_tiet_nganh": [
+            {
+              "ten_chuyen_nganh": "Tên chuyên ngành (nếu có)",
+              "ma_chuyen_nganh": "Mã chuyên ngành (nếu có)",
+              "to_hop_mon": [
+                "Mã tổ hợp 1",
+                "Mã tổ hợp 2",
+                "..."
+              ],
+              "diem_chuan": {
+                "2022": "Điểm chuẩn 2022",
+                "2023": "Điểm chuẩn 2023",
+                "2024": "Điểm chuẩn 2024",
+                "2025": "Điểm chuẩn 2025"
+              },
+              "ghi_chu": "Ghi chú (nếu có)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
